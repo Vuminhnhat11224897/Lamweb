@@ -1,0 +1,1 @@
+print('Hello world'.rjust(50, '*'))
