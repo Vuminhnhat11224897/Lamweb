@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-+q%3*%ffl7iw2azr_k_tu%y$yl6#p5gk_hh9&qo3097sqyu3fu'
+SECRET_KEY = 'django-insecure-2j9dnv&&l+pg7eh-^%edo7v@8u*9moja%h_cno27zk3z(8e0l!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -31,7 +31,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'trangchu.apps.TrangchuConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
